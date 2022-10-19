@@ -5,7 +5,8 @@ Simple ***Educational Website App*** Created with **Flutter Freamwork** And **Da
 
 ## Functionality
 
-- Educational Website Here
+- Educational Website Here 
+- Better Experience UI
 - Toggle Between BookMark Button (One Click add ,Two Click Remove)
 - Hide Button From Starting App (Back Button ...)
 - Progress Bar Available
