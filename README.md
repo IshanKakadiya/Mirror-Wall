@@ -6,6 +6,7 @@ Simple ***OTT Platforms*** Created with **Flutter Freamwork** And **Dart Languag
 ## Functionality
 
 - All OTT Platform Here
+- Better Experience UI
 - Toggle Between BookMark Button (One Click add ,Two Click Remove)
 - Hide Button From Starting App (Back Button ...)
 - Progress Bar Available
