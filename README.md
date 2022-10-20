@@ -16,11 +16,12 @@ Simple ***OTT Platforms*** Created with **Flutter Freamwork** And **Dart Languag
 
 ## Screenshots 
 
-<img src="https://user-images.githubusercontent.com/113764228/196773803-fdb87d17-293d-40ae-9bd4-f415303f4dcc.jpg" width="400"> &nbsp; 
-<img src="https://user-images.githubusercontent.com/113764228/196773891-7303a8b2-2b17-42b1-92b4-8cdafc20283c.jpg" width="400"> &nbsp; 
-<img src="https://user-images.githubusercontent.com/113764228/196773520-551f56c8-b5e7-4f71-a2d6-38773ffd7b1b.jpg" width="400"> &nbsp; 
-<img src="https://user-images.githubusercontent.com/113764228/196773556-3137e962-77bd-4618-bfdb-7dc83bfa5fae.jpg" width="400"> &nbsp; 
-<img src="https://user-images.githubusercontent.com/113764228/196773572-52a7ef4d-a039-4c0c-a094-7bd54b77e3d5.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/196860628-2a2a6a83-25a3-4c43-8926-cd9cf3c32f9f.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/196860634-798b7a26-d744-422f-8a06-1668620f16d2.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/196860636-d57a8aa0-3a14-4cc5-9a25-6da4778b6323.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/196860638-6d343576-fa59-413d-b242-c14bcc6f7212.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/196860640-3b8b90f1-bf7b-4ceb-b571-06ed479159f4.jpg" width="400"> &nbsp; 
+
 
 
 ## Feedback
