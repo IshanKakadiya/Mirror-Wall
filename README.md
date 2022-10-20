@@ -16,6 +16,7 @@ Simple ***OTT Platforms*** Created with **Flutter Freamwork** And **Dart Languag
 
 ## Screenshots 
 
+<img src="https://user-images.githubusercontent.com/113764228/196947476-05fa342e-85c5-41df-87aa-104403255e43.gif" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196860628-2a2a6a83-25a3-4c43-8926-cd9cf3c32f9f.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196860634-798b7a26-d744-422f-8a06-1668620f16d2.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196860636-d57a8aa0-3a14-4cc5-9a25-6da4778b6323.jpg" width="400"> &nbsp; 
