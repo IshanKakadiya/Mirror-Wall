@@ -17,6 +17,7 @@ Simple ***Web Browser App*** Created with **Flutter Freamwork** And **Dart Langu
 
 ## Screenshots 
 
+<img src="https://user-images.githubusercontent.com/113764228/196945722-fbf3e7ea-23d1-489f-92b9-522b848ada91.gif" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196772086-578f97a5-ff96-41d0-a144-6c471decb7f0.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196772970-335166c2-001a-4bd3-95ec-431b5b620469.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196772809-f28aec56-6657-453d-b5d6-f019bc7ad85e.jpg" width="400"> &nbsp; 
