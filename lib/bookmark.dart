@@ -39,7 +39,7 @@ class _bookmark_pageState extends State<bookmark_page> {
                   children: [
                     const SizedBox(width: 20),
                     Text(
-                      "Total Teams - ${Globle.allBookMarkItems.length}",
+                      "Total ( ${Globle.allBookMarkItems.length} )",
                       style: GoogleFonts.rubik(
                         fontSize: 15,
                       ),
