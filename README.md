@@ -16,6 +16,7 @@ Simple ***Educational Website App*** Created with **Flutter Freamwork** And **Da
 
 ## Screenshots 
 
+<img src="https://user-images.githubusercontent.com/113764228/196945987-616097f6-c782-4cde-aeb1-cde131a9ac96.gif" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196774696-d5efbbd4-cf45-4f46-a040-5a1c3d70b3dc.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196774729-aed98198-f7c6-493a-8ba7-ab5c96fbfac5.jpg" width="400"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/113764228/196859556-7ce5e6ae-3251-4c81-9bf2-b0f44b234d71.jpg" width="400"> &nbsp; 
